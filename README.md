@@ -42,7 +42,10 @@ This project helps a certain medical establishment such as a clinic or a hospita
    - Admin page to add or edit question in quiz
    - Patient page to play quiz
    - Result page to see how much a particular patient is score
-   - In this repo i have give the DataBase of Qiuz app int qw
+   - In this repo i have give the DataBase of Qiuz app in qw
+   - To see localhost deployement of this web app we have to move qw folder in projectstar file which you extraxt from zip
+   - Admin Password : adminpass123
+   
 
 ### Chatbot 
    - To assist Visitors about our app
