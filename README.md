@@ -42,6 +42,7 @@ This project helps a certain medical establishment such as a clinic or a hospita
    - Admin page to add or edit question in quiz
    - Patient page to play quiz
    - Result page to see how much a particular patient is score
+   - In this repo i have give the DataBase of Qiuz app int qw
 
 ### Chatbot 
    - To assist Visitors about our app
